@@ -1,0 +1,5 @@
+Parameter ranges: {'drop': [True, False], 'num_particles': [32, 64, 128, 256, 512, 750, 1024, 1500, 2048], 'w': [0.2], 'c1': [1.6], 'c2': [1.6], 'drop_rate': [2], 'drop_percentage': [0.9]}
+Bounds: [[-10, 10], [-10, 10], [-10, 10], [-10, 10]]
+max_iter: 40
+tolerance: 0.1
+num_of_stable_iterations: 5
